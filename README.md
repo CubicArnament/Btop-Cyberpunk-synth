@@ -30,11 +30,11 @@ On Windows(Windows Terminal) :
 
 # There is also another way to install this theme.
 
-1. clone the repo locally
+1. Clone the repo locally
 
-2. go to the cloned directory
+2. Go to the cloned directory
 
-3. copy the file with .theme extension to the btop directory - `/usr/share/btop/themes/`
+3. Copy the file with .theme extension to the btop directory - `/usr/share/btop/themes/`
 
 ```bash
 sudo cp cyberpunk-synth.theme /usr/share/btop/themes
@@ -43,11 +43,4 @@ sudo cp cyberpunk-synth.theme /usr/share/btop/themes
 
 5. Open the Options tab and select the Cyberpunk-Synth theme
 
-6. Enjoy the freshly installed theme
-
-> [!NOTE]
->This is a `dev` branch, if you want to make changes but you don't want to make a fork and submit a PR, to make changes to the main branch you need to create a fork and submit a PR
-
-## TODO
-- [x] Добавить скриншот Windows Terminal
-- [ ] Добавить скриншот Linux
+6. Enjoy the freshly installed theme!
